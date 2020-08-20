@@ -27,7 +27,7 @@ const App = () => {
 					description='Головы щучьи с чесноком да свежайшая сёмгушка.'
 				/>
 				<Card
-					disabled={false}
+					disabled
 					suptitle='Сказочное заморское яство'
 					title='Нямушка'
 					subtitle='с курой'
